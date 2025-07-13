@@ -32,3 +32,5 @@ Abrogate:
 "A flattering or pleasing statement or action used to persuade someone gently to do something." 
 }
 console.log(dictionary.Abrogate)
+
+
